@@ -1,0 +1,19 @@
+.wrapper{
+    margin-top: 60px;
+    background-color: var(--White);
+    height: 630px;
+    border-radius: 15px 15px 160px 15px;
+    padding: 50px 60px;
+}
+
+
+
+@media screen and (max-width: 375px) {
+    .wrapper{
+        padding: 50px 15px;
+        height: 460px;
+    }
+}
+
+
+

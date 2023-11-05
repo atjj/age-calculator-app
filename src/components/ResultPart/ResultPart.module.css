@@ -1,0 +1,18 @@
+.results{
+    font-family: Poppins-ExtraBold-Italic;
+    font-size: 80px;
+}
+
+.results span {
+    color: var(--Purple);
+}
+
+@media screen and (max-width: 375px){
+    .results{
+        font-size: 45px;
+    }
+    .results div{
+        padding: 0 15px;
+    }
+
+}
